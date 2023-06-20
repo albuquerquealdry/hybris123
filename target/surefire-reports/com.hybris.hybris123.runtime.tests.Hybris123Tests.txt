@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.hybris.hybris123.runtime.tests.Hybris123Tests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.228 s <<< FAILURE! - in com.hybris.hybris123.runtime.tests.Hybris123Tests
+gitRepoOk(com.hybris.hybris123.runtime.tests.Hybris123Tests)  Time elapsed: 0.081 s  <<< ERROR!
+java.lang.IllegalArgumentException: No enum constant com.hybris.hybris123.runtime.helper.Version.V2205
+	at com.hybris.hybris123.runtime.tests.Hybris123Tests.allowHttps(Hybris123Tests.java:94)
+
